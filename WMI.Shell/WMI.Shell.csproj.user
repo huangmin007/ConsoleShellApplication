@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartArguments>"SELECT %2a FROM Win32_PnPEntity WHERE Name LIKE %27%25%28COM_%29%25%27 OR Name LIKE %27%25%28COM__%29%25%27"</StartArguments>
+  </PropertyGroup>
+</Project>

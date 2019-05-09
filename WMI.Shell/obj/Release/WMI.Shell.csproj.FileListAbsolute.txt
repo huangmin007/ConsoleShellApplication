@@ -1,0 +1,9 @@
+E:\2018\2018_MultimediaTerminalServices\ConsoleShellApplication\WMI.Shell\obj\Release\WMI.exe
+E:\2018\2018_MultimediaTerminalServices\ConsoleShellApplication\WMI.Shell\obj\Release\WMI.pdb
+E:\2018\2018_MultimediaTerminalServices\ConsoleShellApplication\WMI.Shell\bin\Release\WMI.exe
+E:\2018\2018_MultimediaTerminalServices\ConsoleShellApplication\WMI.Shell\bin\Release\WMI.pdb
+E:\2018\2018_MultimediaTerminalServices\ConsoleShellApplication\WMI.Shell\bin\Release\Console.Shell.dll
+E:\2018\2018_MultimediaTerminalServices\ConsoleShellApplication\WMI.Shell\bin\Release\Newtonsoft.Json.dll
+E:\2018\2018_MultimediaTerminalServices\ConsoleShellApplication\WMI.Shell\bin\Release\Console.Shell.pdb
+E:\2018\2018_MultimediaTerminalServices\ConsoleShellApplication\WMI.Shell\bin\Release\Newtonsoft.Json.xml
+E:\2018\2018_MultimediaTerminalServices\ConsoleShellApplication\WMI.Shell\obj\Release\WMI.Shell.csprojResolveAssemblyReference.cache

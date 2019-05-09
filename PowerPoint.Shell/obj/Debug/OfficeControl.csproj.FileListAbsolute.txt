@@ -1,0 +1,10 @@
+E:\2018\2018_MultimediaTerminalServices\ConsoleApplication\OfficeControl\obj\Debug\OfficeControl.csproj.ResolveComReference.cache
+E:\2018\2018_MultimediaTerminalServices\ConsoleApplication\OfficeControl\bin\Debug\Office.exe
+E:\2018\2018_MultimediaTerminalServices\ConsoleApplication\OfficeControl\bin\Debug\Office.pdb
+E:\2018\2018_MultimediaTerminalServices\ConsoleApplication\OfficeControl\bin\Debug\SpaceCGLibrary.dll
+E:\2018\2018_MultimediaTerminalServices\ConsoleApplication\OfficeControl\bin\Debug\SpaceCGLibrary.pdb
+E:\2018\2018_MultimediaTerminalServices\ConsoleApplication\OfficeControl\obj\Debug\OfficeControl.csprojResolveAssemblyReference.cache
+E:\2018\2018_MultimediaTerminalServices\ConsoleApplication\OfficeControl\obj\Debug\Office.exe
+E:\2018\2018_MultimediaTerminalServices\ConsoleApplication\OfficeControl\obj\Debug\Office.pdb
+E:\2018\2018_MultimediaTerminalServices\ConsoleApplication\bin\Debug\Office.exe
+E:\2018\2018_MultimediaTerminalServices\ConsoleApplication\bin\Debug\Office.pdb

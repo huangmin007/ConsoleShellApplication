@@ -1,0 +1,5 @@
+E:\2018\2018_MultimediaTerminalServices\ConsoleApplication\bin\Release\WIS.exe
+E:\2018\2018_MultimediaTerminalServices\ConsoleApplication\bin\Release\WIS.pdb
+E:\2018\2018_MultimediaTerminalServices\ConsoleApplication\WindowsInputSimulator\obj\Release\WindowsInputSimulator.csprojResolveAssemblyReference.cache
+E:\2018\2018_MultimediaTerminalServices\ConsoleApplication\WindowsInputSimulator\obj\Release\WIS.exe
+E:\2018\2018_MultimediaTerminalServices\ConsoleApplication\WindowsInputSimulator\obj\Release\WIS.pdb

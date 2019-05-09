@@ -1,0 +1,7 @@
+E:\2018\2018_MultimediaTerminalServices\ConsoleShellApplication\Console.Shell\bin\Release\Console.Shell.dll
+E:\2018\2018_MultimediaTerminalServices\ConsoleShellApplication\Console.Shell\bin\Release\Console.Shell.pdb
+E:\2018\2018_MultimediaTerminalServices\ConsoleShellApplication\Console.Shell\bin\Release\Newtonsoft.Json.dll
+E:\2018\2018_MultimediaTerminalServices\ConsoleShellApplication\Console.Shell\bin\Release\Newtonsoft.Json.xml
+E:\2018\2018_MultimediaTerminalServices\ConsoleShellApplication\Console.Shell\obj\Release\Console.Shell.dll
+E:\2018\2018_MultimediaTerminalServices\ConsoleShellApplication\Console.Shell\obj\Release\Console.Shell.pdb
+E:\2018\2018_MultimediaTerminalServices\ConsoleShellApplication\Console.Shell\obj\Release\Console.Shell.csprojResolveAssemblyReference.cache

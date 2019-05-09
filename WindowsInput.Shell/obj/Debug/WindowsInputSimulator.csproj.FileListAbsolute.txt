@@ -1,0 +1,11 @@
+E:\2018\2018_MultimediaTerminalServices\ConsoleApplication\WindowsInputSimulator\bin\Debug\SpaceCGLibrary.dll
+E:\2018\2018_MultimediaTerminalServices\ConsoleApplication\WindowsInputSimulator\bin\Debug\WindowsInput.dll
+E:\2018\2018_MultimediaTerminalServices\ConsoleApplication\WindowsInputSimulator\bin\Debug\SpaceCGLibrary.pdb
+E:\2018\2018_MultimediaTerminalServices\ConsoleApplication\WindowsInputSimulator\bin\Debug\WindowsInput.xml
+E:\2018\2018_MultimediaTerminalServices\ConsoleApplication\WindowsInputSimulator\obj\Debug\WindowsInputSimulator.csprojResolveAssemblyReference.cache
+E:\2018\2018_MultimediaTerminalServices\ConsoleApplication\WindowsInputSimulator\bin\Debug\WIS.exe
+E:\2018\2018_MultimediaTerminalServices\ConsoleApplication\WindowsInputSimulator\bin\Debug\WIS.pdb
+E:\2018\2018_MultimediaTerminalServices\ConsoleApplication\WindowsInputSimulator\obj\Debug\WIS.exe
+E:\2018\2018_MultimediaTerminalServices\ConsoleApplication\WindowsInputSimulator\obj\Debug\WIS.pdb
+E:\2018\2018_MultimediaTerminalServices\ConsoleApplication\bin\Debug\WIS.exe
+E:\2018\2018_MultimediaTerminalServices\ConsoleApplication\bin\Debug\WIS.pdb

@@ -1,0 +1,10 @@
+E:\2018\2018_MultimediaTerminalServices\ConsoleApplication\OfficeControl\obj\Debug\PowerPointShell.csproj.ResolveComReference.cache
+E:\2018\2018_MultimediaTerminalServices\ConsoleApplication\OfficeControl\obj\Debug\PowerPointShell.csprojResolveAssemblyReference.cache
+E:\2018\2018_MultimediaTerminalServices\ConsoleApplication\PowerPointShell\obj\Debug\PowerPointShell.csproj.ResolveComReference.cache
+E:\2018\2018_MultimediaTerminalServices\ConsoleApplication\PowerPointShell\obj\Debug\PowerPointShell.csprojResolveAssemblyReference.cache
+E:\2018\2018_MultimediaTerminalServices\ConsoleShellApplication\PowerPointShell\obj\Debug\PowerPointShell.csprojResolveAssemblyReference.cache
+E:\2018\2018_MultimediaTerminalServices\ConsoleShellApplication\PowerPointShell\obj\Debug\PowerPointShell.csproj.ResolveComReference.cache
+E:\2018\2018_MultimediaTerminalServices\ConsoleShellApplication\bin\Debug\ppt.exe
+E:\2018\2018_MultimediaTerminalServices\ConsoleShellApplication\bin\Debug\ppt.pdb
+E:\2018\2018_MultimediaTerminalServices\ConsoleShellApplication\PowerPointShell\obj\Debug\ppt.exe
+E:\2018\2018_MultimediaTerminalServices\ConsoleShellApplication\PowerPointShell\obj\Debug\ppt.pdb

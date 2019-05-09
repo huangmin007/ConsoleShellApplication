@@ -1,0 +1,5 @@
+E:\2018\2018_MultimediaTerminalServices\ConsoleShellApplication\WindowsManagementInformation\bin\Release\WMI.exe
+E:\2018\2018_MultimediaTerminalServices\ConsoleShellApplication\WindowsManagementInformation\bin\Release\WMI.pdb
+E:\2018\2018_MultimediaTerminalServices\ConsoleShellApplication\WindowsManagementInformation\obj\Release\WindowsManagementInformation.csprojResolveAssemblyReference.cache
+E:\2018\2018_MultimediaTerminalServices\ConsoleShellApplication\WindowsManagementInformation\obj\Release\WMI.exe
+E:\2018\2018_MultimediaTerminalServices\ConsoleShellApplication\WindowsManagementInformation\obj\Release\WMI.pdb

@@ -1,0 +1,6 @@
+E:\2018\2018_MultimediaTerminalServices\ConsoleApplication\OfficeControl\obj\Release\OfficeControl.csproj.ResolveComReference.cache
+E:\2018\2018_MultimediaTerminalServices\ConsoleApplication\OfficeControl\obj\Release\OfficeControl.csprojResolveAssemblyReference.cache
+E:\2018\2018_MultimediaTerminalServices\ConsoleApplication\bin\Release\ppt.exe
+E:\2018\2018_MultimediaTerminalServices\ConsoleApplication\bin\Release\ppt.pdb
+E:\2018\2018_MultimediaTerminalServices\ConsoleApplication\OfficeControl\obj\Release\ppt.exe
+E:\2018\2018_MultimediaTerminalServices\ConsoleApplication\OfficeControl\obj\Release\ppt.pdb

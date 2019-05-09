@@ -1,0 +1,9 @@
+E:\2018\2018_MultimediaTerminalServices\ConsoleShellApplication\WindowsManagementInformation\bin\Debug\WMI.exe
+E:\2018\2018_MultimediaTerminalServices\ConsoleShellApplication\WindowsManagementInformation\bin\Debug\WMI.pdb
+E:\2018\2018_MultimediaTerminalServices\ConsoleShellApplication\WindowsManagementInformation\bin\Debug\Console.Shell.dll
+E:\2018\2018_MultimediaTerminalServices\ConsoleShellApplication\WindowsManagementInformation\bin\Debug\Newtonsoft.Json.dll
+E:\2018\2018_MultimediaTerminalServices\ConsoleShellApplication\WindowsManagementInformation\bin\Debug\Console.Shell.pdb
+E:\2018\2018_MultimediaTerminalServices\ConsoleShellApplication\WindowsManagementInformation\bin\Debug\Newtonsoft.Json.xml
+E:\2018\2018_MultimediaTerminalServices\ConsoleShellApplication\WindowsManagementInformation\obj\Debug\WMI.Shell.csprojResolveAssemblyReference.cache
+E:\2018\2018_MultimediaTerminalServices\ConsoleShellApplication\WindowsManagementInformation\obj\Debug\WMI.exe
+E:\2018\2018_MultimediaTerminalServices\ConsoleShellApplication\WindowsManagementInformation\obj\Debug\WMI.pdb
