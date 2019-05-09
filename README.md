@@ -6,13 +6,14 @@ Window Console Shell Application
     wis.exe   Window Input Simulator, support keyboard and mouse, plan to add touch in the future
     wmi.exe   Common Information Model(CIM) management class, management class is WMI class
     
-### FS
+### Support
     (.NET Framework 4)
     All support network(tcp/udp) and process input/output    
     All support process sleep
     ALl support continuous input and mulit command queue
     All support output json and xml format
-#### Example
+    
+### Example
 ```
 ppt --start       //exit use --stop
 ppt --start 2000  //exit use --stop
@@ -20,9 +21,10 @@ ppt --run         //exit use --quit
 ppt -np -sp 1000 -gp 3 -sp 1000     // ... auto control
 ppt -of json -i   //output json format for current ppt file infomation 
 ```
-#### 参数
-##### ppt(PowerPointShell) 
-##### \[ -? | -a | -aw | -np | -pp | -gp | -fp | -lp | -gc | -exp | -exps | -od | -cd | -esv | -qa | -i | --run | --quit | --start | --stop | -of | -sp | -v \]
+
+### 参数
+#### ppt(PowerPointShell) 
+#### \[ -? | -a | -aw | -np | -pp | -gp | -fp | -lp | -gc | -exp | -exps | -od | -cd | -esv | -qa | -i | --run | --quit | --start | --stop | -of | -sp | -v \]
 * -?  显示帮助，与键入 -? -help 是一样的
 * -a  激活应用窗体，将活动的演示文档窗体在最前面显示
 * -aw(int index)  编辑模式下有效，激活多个编辑文档中的指定一个窗体，参考：-i，示例：-aw 1
@@ -51,8 +53,8 @@ ppt -of json -i   //output json format for current ppt file infomation
 * -sp(int ms)        将当前线程挂起指定的时间(ms)
 * -v 控制台程序版本信息
 
-##### wis(WindowsInput) 
-##### \[ -? | -kd | -ku | -kp | -ks | -te | -kvs | -mld | -mlu | -mlc | -mldc | -mrd | -mru | -mrc | -mrdc | -mmb | -mmt | -hs | -vs | -mmtvd | -gmp | --run | --quit | --start | --stop | -of | -sp | -v \]
+#### wis(WindowsInput) 
+#### \[ -? | -kd | -ku | -kp | -ks | -te | -kvs | -mld | -mlu | -mlc | -mldc | -mrd | -mru | -mrc | -mrdc | -mmb | -mmt | -hs | -vs | -mmtvd | -gmp | --run | --quit | --start | --stop | -of | -sp | -v \]
 * -? 显示帮助，与键入 -? -help 是一样的
 * -kd(enum)          模拟输入键盘按下键，参数为十进制键值或是键的枚举字符串，参考：-kvs
 * -ku(enum)          模拟输入键盘释放键
@@ -85,8 +87,8 @@ ppt -of json -i   //output json format for current ppt file infomation
 * -sp(int ms)        将当前线程挂起指定的时间(ms)
 * -v 控制台程序版本信息
 
-##### wmi(WMIShell) 
-##### \[ -? | -ex | -li | -mos | -mosp | -mosi | --run | --quit | --start | --stop | -of | -sp | -v \]
+#### wmi(WMIShell) 
+#### \[ -? | -ex | -li | -mos | -mosp | -mosi | --run | --quit | --start | --stop | -of | -sp | -v \]
 * -? 显示帮助，与键入 -? -help 是一样的
 * -ex 列举内置默认的信息查询语句
 * -li 列举 Win32 可查询的信息管理对象(表)
