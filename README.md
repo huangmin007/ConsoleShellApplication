@@ -22,7 +22,7 @@ ppt -np -sp 1000 -gp 3 -sp 1000     // ... auto control
 ppt -of json -i   //output json format for current ppt file infomation 
 ```
 
-### 参数
+### Arguments
 #### ppt(PowerPointShell) 
 #### \[ -? | -a | -aw | -np | -pp | -gp | -fp | -lp | -gc | -exp | -exps | -od | -cd | -esv | -qa | -i | --run | --quit | --start | --stop | -of | -sp | -v \]
 * -?  显示帮助，与键入 -? -help 是一样的
