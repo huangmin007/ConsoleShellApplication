@@ -21,8 +21,8 @@ ppt -np -sp 1000 -gp 3 -sp 1000     // ... auto control
 ppt -of json -i   //output json format for current ppt file infomation 
 ```
 #### 参数
-**ppt**<br/>
-    ppt(PowerPointShell) [-? | -a | -aw | -np | -pp | -gp | -fp | -lp | -gc | -exp | -exps | -od | -cd | -esv | -qa | -i | --run | --quit | --start | --stop | -of | -sp | -v]
+##### ppt(PowerPointShell) 
+##### \[ -? | -a | -aw | -np | -pp | -gp | -fp | -lp | -gc | -exp | -exps | -od | -cd | -esv | -qa | -i | --run | --quit | --start | --stop | -of | -sp | -v \]
 * -?  显示帮助，与键入 -? -help 是一样的
 * -a  激活应用窗体，将活动的演示文档窗体在最前面显示
 * -aw(int index)  编辑模式下有效，激活多个编辑文档中的指定一个窗体，参考：-i，示例：-aw 1
@@ -34,9 +34,9 @@ ppt -of json -i   //output json format for current ppt file infomation
 * -lp 显示文档最后一页
 * -gc(int index)     演示模式下有效，控制动画播放的索引(参考：-i)。
                               示例：-gc 2
-*  -exp[path, width, height] 将 PowerPoint 文档以图片导出(注意文件完整路径使用'\')。
+*  -exp\[path, width, height\] 将 PowerPoint 文档以图片导出(注意文件完整路径使用'\')。
                            示例：-exp "D:\ttp\" 1920 1080
-*  -exps     (index, [path, width, height])将 PowerPoint 文档指定的页面以图片导出(注意文件完整路径使用'\')。
+*  -exps     (index, \[path, width, height\])将 PowerPoint 文档指定的页面以图片导出(注意文件完整路径使用'\')。
                                  示例：-exps 1 "D:\ttp\" 1920 1080
 * -od       (path)          打开 PowerPoint 文档，示例：-od "D:\ppt.pptx"
 * -cd 关闭活动的 PowerPoint 文档
@@ -45,14 +45,14 @@ ppt -of json -i   //output json format for current ppt file infomation
 * -i 输出打开的文档/页面信息
 * --run 进入持续输入模式
 * --quit 退出持续输入模式
-* --start[int port] 进入网络模式下持续输入模式，端口号空时使用默认端口
+* --start\[int port\] 进入网络模式下持续输入模式，端口号空时使用默认端口
 * --stop 停止网络模式下持续输入模式
 * -of(enum)          输出格式：0:default默认格式，1:json格式，2:xml格式。示例：-of 1 或 -of json
 * -sp(int ms)        将当前线程挂起指定的时间(ms)
 * -v 控制台程序版本信息
 
-**wis**<br/>
-    wis(WindowsInput) [-? | -kd | -ku | -kp | -ks | -te | -kvs | -mld | -mlu | -mlc | -mldc | -mrd | -mru | -mrc | -mrdc | -mmb | -mmt | -hs | -vs | -mmtvd | -gmp | --run | --quit | --start | --stop | -of | -sp | -v]
+##### wis(WindowsInput) 
+##### \[ -? | -kd | -ku | -kp | -ks | -te | -kvs | -mld | -mlu | -mlc | -mldc | -mrd | -mru | -mrc | -mrdc | -mmb | -mmt | -hs | -vs | -mmtvd | -gmp | --run | --quit | --start | --stop | -of | -sp | -v \]
 * -? 显示帮助，与键入 -? -help 是一样的
 * -kd(enum)          模拟输入键盘按下键，参数为十进制键值或是键的枚举字符串，参考：-kvs
 * -ku(enum)          模拟输入键盘释放键
@@ -85,8 +85,8 @@ ppt -of json -i   //output json format for current ppt file infomation
 * -sp(int ms)        将当前线程挂起指定的时间(ms)
 * -v 控制台程序版本信息
 
-**wmi**<br/>
-    wmi(WMIShell) [-? | -ex | -li | -mos | -mosp | -mosi | --run | --quit | --start | --stop | -of | -sp | -v]
+##### wmi(WMIShell) 
+##### \[ -? | -ex | -li | -mos | -mosp | -mosi | --run | --quit | --start | --stop | -of | -sp | -v \]
 * -? 显示帮助，与键入 -? -help 是一样的
 * -ex 列举内置默认的信息查询语句
 * -li 列举 Win32 可查询的信息管理对象(表)
@@ -101,3 +101,5 @@ ppt -of json -i   //output json format for current ppt file infomation
 * -sp(int ms)        将当前线程挂起指定的时间(ms)
 * -v 控制台程序版本信息
 
+### Declare
+    There may be some bugs ←←@_@
