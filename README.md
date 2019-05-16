@@ -20,6 +20,8 @@ ppt --start 2000  //exit use --stop
 ppt --run         //exit use --quit
 ppt -np -sp 1000 -gp 3 -sp 1000     // ... auto control
 ppt -of json -i   //output json format for current ppt file infomation 
+wmi -mos "SELECT * FROM Win32_PnPEntity WHERE Caption LIKE '%(COM_)%' OR Caption LIKE '%(COM__)%'"
+wmi -mosi 0
 ```
 
 ### Arguments
